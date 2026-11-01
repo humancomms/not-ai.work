@@ -1,13 +1,13 @@
 # not-ai.work
 
-A simple, self-declared reference for human-created work.
+A minimal self-declaration for genuinely human-made work.
 
-Using a link to [not-ai.work](https://not-ai.work) next to a piece of writing, art, media, or other creative work means the creator is claiming that the substantive expressive content was made by a human and was not generated or materially rewritten by generative AI.
+Using a link to [not-ai.work](https://not-ai.work/) means the creator is claiming that the referenced content was genuinely made by a human and was not generated or reworked by generative AI in any form.
 
-This is an author/producer attestation, not independent verification or certification.
+The site is intentionally minimal and uses the same Tufte CSS visual language as humancomms.org.
 
-## Site
+## Deployment
 
-Static site in `site/`, deployed with GitHub Pages through `.github/workflows/pages.yml`.
+The static site lives in `site/` and deploys to GitHub Pages through `.github/workflows/pages.yml`.
 
 Custom domain: `not-ai.work`
